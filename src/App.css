@@ -19,7 +19,7 @@ header {
 }
 .liens-header {
   display: flex;
-  gap: 5vw;
+  gap: 4vw;
   list-style: none;
   
 }
@@ -35,6 +35,7 @@ header {
   justify-content: center;
   align-items: center;
   height: 100vh;
+  text-align: center;
 }
 .Home h1 {
   font-size: 100px;
